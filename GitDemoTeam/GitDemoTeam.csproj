@@ -44,7 +44,16 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Team\Abdul.cs" />
+
     <Compile Include="Team\chandra.cs" />
+
+
+    <Compile Include="Team\simranScs.cs" />
+
+   <Compile Include="Team\Shija.cs" />
+
+    <Compile Include="Team\merin.cs" />
+
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

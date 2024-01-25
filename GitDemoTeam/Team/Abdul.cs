@@ -14,27 +14,10 @@ namespace GitDemoTeam.Team
         //Login function by Chnadra
         //login
         //enterpassword and user name and clcik submit
-        //Login done
+        //Login done by n2
 
-        //login another user
-        // chnages from ab1 --- Changed
-        //abacd
-        //added
 
-        //ar2 f1
+        // this code is from n2
 
-        //ar2 f1
-
-        //ar3 f1
-
-        //ar3 -c1
-
-        //ar3 c2
-        //ar3 =c4
-        //b11
-        //b12
-        //b13
-        //m1
-        //m2
     }
 }
